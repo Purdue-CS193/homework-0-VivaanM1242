@@ -15,8 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- CS 193 helped me to create my first website
+- It is also teaching me how to work with the terminal
 
 1. Numbered
 2. List
